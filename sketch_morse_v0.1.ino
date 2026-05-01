@@ -16,7 +16,7 @@ void loop() {
       } else if (codigo[j] == '-') {
         escribirRaya();
       }
-      delay(200); // espacio entre símbolos dentro de la misma letra
+      delay(500); // espacio entre símbolos dentro de la misma letra
     }
 
     delay(entreLetrasMs); // espacio entre letras
