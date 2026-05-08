@@ -13,11 +13,11 @@ const int tiempoAmarillo = 2000;
 const int tiempoVerde    = 12000;
 
 // verde
-const int LED_VERDE    = 2;
+const int LED_VERDE    = 3;
 // amarillo
-const int LED_AMARILLO = 3;
+const int LED_AMARILLO = 5;
 // rojo
-const int LED_ROJO     = 4;
+const int LED_ROJO     = 6;
 
 // Configuramos los leds
 void setup() {
