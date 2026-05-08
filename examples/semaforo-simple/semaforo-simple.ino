@@ -15,7 +15,7 @@ const int tiempoVerde    = 12000;
 // verde
 const int LED_VERDE    = 3;
 // amarillo
-const int LED_AMARILLO = 5;
+const int LED_AMARILLO = 4;
 // rojo
 const int LED_ROJO     = 6;
 
