@@ -8,9 +8,9 @@
 * tiempos de duración encendido del Amarillo para precaución y cautela
 * tiempos de duración encendido del Verde para continuar
 */
-const int tiempoRojo     = 5000;
-const int tiempoAmarillo = 1000;
-const int tiempoVerde    = 7000;
+const int tiempoRojo     = 15000;
+const int tiempoAmarillo = 2000;
+const int tiempoVerde    = 12000;
 
 // verde
 const int LED_VERDE    = 2;
